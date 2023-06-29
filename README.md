@@ -1,8 +1,7 @@
 # Reddit Post and Comment Deleter
 
-This script allows you to delete your old Reddit posts and comments automatically.
-It uses the [PRAW (Python Reddit API Wrapper)](https://github.com/praw-dev/praw) library to access the Reddit API and delete posts and comments based on a
-given time threshold.
+This script allows you to mass-delete your old Reddit posts and comments.
+It uses the [PRAW (Python Reddit API Wrapper)](https://github.com/praw-dev/praw) library to access the Reddit API and delete posts and comments based on a particular sub-reddit you posted to, or on a given time threshold.
 
 ## Usage
 
